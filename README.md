@@ -94,7 +94,7 @@
 
 ###
 
-<a href="https://github-readme-stats.vercel.app/">
+<a href="https://github.com/kandalgaonkarshubham/WordHive/">
   <img width=300 align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kandalgaonkarshubham&repo=WordHive&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
