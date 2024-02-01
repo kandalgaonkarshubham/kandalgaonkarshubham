@@ -1,5 +1,5 @@
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="https://github.com/samadpls/Programing-Gifs/blob/main/static/gifs/new.gif"  />
 </div>
 
 ###
@@ -26,7 +26,7 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Kalam&duration=2500&pause=200&color=3A8378&center=true&width=435&lines=Greetings!+I'm+Shubham+%F0%9F%91%8B%F0%9F%8F%BB;an+enthusiastic+Web+Developer+who+enjoys;taking+on+new+projects+and+learning+new+things+%F0%9F%A4%9E%F0%9F%8F%BB" alt="Typing SVG" >
+    <img src="https://readme-typing-svg.demolab.com?font=Kalam&duration=2500&pause=200&color=b13aa8&center=true&width=435&lines=Greetings!+I'm+Shubham+%F0%9F%91%8B%F0%9F%8F%BB;an+enthusiastic+Web+Developer+who+enjoys;taking+on+new+projects+and+learning+new+things+%F0%9F%A4%9E%F0%9F%8F%BB" alt="Typing SVG" >
   </a>
 </h1>
 
