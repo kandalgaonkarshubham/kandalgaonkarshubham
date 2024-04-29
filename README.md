@@ -72,6 +72,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="40" alt="firebase logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="40" alt="nextjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg" height="40" alt="laravel logo"  />
+  <img width="12" />
+  <img src="https://avatars.githubusercontent.com/u/12504344?s=48&v=4" height="40" alt="expo logo"  />
 </div>
 
 ###
@@ -99,9 +103,9 @@
 </a>
 
 <details>
-<summary>#2 in Google Search Results 🎉</summary>
+<summary>#1 in Google Search Results 🎉</summary>
 <br>
-<img width=300 align="center" src="assets/googlesearch.jpeg" />
+<img width=300 align="center" src="assets/googlesearch.png" />
 </details>
 
 ###
