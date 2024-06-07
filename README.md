@@ -9,10 +9,10 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Linkedin"  />
   </a>
   <a href="https://kandalgaonkarshubham.dev" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-ff4b57?logo=personio&color=ff4b57" height="25" alt="Portfolio"  />
+    <img src="https://img.shields.io/static/v1?message=Portfolio&logo=personio&label=&color=ff4b57&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Portfolio"  />
   </a>
   <a href="https://www.instagram.com/shubham___x_x/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-C13584?logo=Instagram&logoColor=white" height="25" alt="Instagram"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=C13584&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Instagram"  />
   </a>
   <a href="https://youtube.com/@shubhamkandalgaonkar" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Youtube"  />
