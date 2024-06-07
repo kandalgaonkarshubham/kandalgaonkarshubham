@@ -5,14 +5,20 @@
 ###
 
 <div align="center">
-  <a href="https://linkedin.com/in/kandalgaonkarshubham" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  <a rel="nofollow" href="https://linkedin.com/in/kandalgaonkarshubham" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Linkedin"  />
+  </a>
+  <a href="https://kandalgaonkarshubham.dev" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-ff4b57?logo=personio&color=ff4b57" height="25" alt="Portfolio"  />
+  </a>
+  <a href="https://www.instagram.com/shubham___x_x/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-C13584?logo=Instagram&logoColor=white" height="25" alt="Instagram"  />
   </a>
   <a href="https://youtube.com/@shubhamkandalgaonkar" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
+    <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Youtube"  />
   </a>
   <a href="mailto:kandalgaonkarshubham@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Gmail"  />
   </a>
 </div>
 
@@ -25,7 +31,7 @@
 ###
 
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
+  <a rel="nofollow" href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Kalam&duration=2500&pause=200&color=b13aa8&center=true&width=435&lines=Greetings!+I'm+Shubham+%F0%9F%91%8B%F0%9F%8F%BB;an+enthusiastic+Web+Developer+who+enjoys;taking+on+new+projects+and+learning+new+things+%F0%9F%A4%9E%F0%9F%8F%BB" alt="Typing SVG" >
   </a>
 </h1>
