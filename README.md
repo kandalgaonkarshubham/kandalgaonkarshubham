@@ -92,7 +92,7 @@
 ###
 
 <div align="center">
-  <img src="https://cdn.simpleicons.org/visualstudiocode/007ACC" height="40" alt="vscode logo"  />
+  <img src="https://cdn.simpleicons.org/vim/019331" height="40" alt="vim logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
   <img width="12" />
