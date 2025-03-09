@@ -21,7 +21,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=kandalgaonkarshubham.kandalgaonkarshubham&right_color=red"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=kandalgaonkarshubham.kandalgaonkarshubham&right_color=red&left_text=👀 Digital Footprints Left"  />
 </div>
 
 ###
@@ -38,7 +38,7 @@
 
 ![Laravel](https://img.shields.io/badge/laravel-%23f05340.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;![Vite](https://img.shields.io/badge/vite-%23b73afe.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;![ReactJs](https://img.shields.io/badge/react-%2361dbfb.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;![Expo](https://img.shields.io/badge/expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white)
 
-![Express.js](https://img.shields.io/badge/express.js-%23f7df1e.svg?style=for-the-badge&logo=express&logoColor=black)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;![Firebase](https://img.shields.io/badge/Firebase-%23de3308.svg?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;![Supabase](https://img.shields.io/badge/Supabase-%233ecf8e.svg?style=for-the-badge&logo=Supabase&logoColor=white)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-%23001e2b.svg?style=for-the-badge&logo=mongodb&logoColor=%2300ed64)&nbsp;![MySql](https://img.shields.io/badge/mysql-%2300628b.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23f7df1e.svg?style=for-the-badge&logo=express&logoColor=black)&nbsp;![Hono.js](https://img.shields.io/badge/hono.js-%23e36002.svg?style=for-the-badge&logo=hono&logoColor=white)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;![Firebase](https://img.shields.io/badge/Firebase-%23de3308.svg?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;![Supabase](https://img.shields.io/badge/Supabase-%233ecf8e.svg?style=for-the-badge&logo=Supabase&logoColor=white)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-%23001e2b.svg?style=for-the-badge&logo=mongodb&logoColor=%2300ed64)&nbsp;![MySql](https://img.shields.io/badge/mysql-%2300628b.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ![AWS](https://img.shields.io/badge/AWS-%23232f3e.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)&nbsp;![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)&nbsp;![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;![Docker](https://img.shields.io/badge/docker-%231072d8.svg?style=for-the-badge&logo=docker&logoColor=white)&nbsp;![Linux](https://img.shields.io/badge/linux-%23ffffff.svg?style=for-the-badge&logo=linux&logoColor=black)&nbsp;![NeoVim](https://img.shields.io/badge/neovim-%231b69a4.svg?style=for-the-badge&logo=vim&logoColor=white)
 
