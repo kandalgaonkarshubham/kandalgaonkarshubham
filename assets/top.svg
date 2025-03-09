@@ -294,24 +294,5 @@
     <g clip-path="url(#clip1)" clip-rule="nonzero">
       <use mask="url(#mask0)" transform="matrix(1,0,0,1,1,0.000000000000047631)" xlink:href="#surface5"/>
     </g>
-    <g style="fill:#fff;fill-opacity:0;display:none">
-      <use x="256.198" y="302.208" xlink:href="#glyph0-1"/>
-      <use x="318.53" y="302.208" xlink:href="#glyph0-2"/>
-      <use x="378.029" y="302.208" xlink:href="#glyph0-3"/>
-      <use x="456.34" y="302.208" xlink:href="#glyph0-4"/>
-      <use x="486.486" y="302.208" xlink:href="#glyph0-5"/>
-      <use x="554.484" y="302.208" xlink:href="#glyph0-6"/>
-      <use x="576.697" y="302.208" xlink:href="#glyph0-7"/>
-      <use x="606.73" y="302.208" xlink:href="#glyph0-8"/>
-      <use x="677.334" y="302.208" xlink:href="#glyph0-5"/>
-      <use x="745.333" y="302.208" xlink:href="#glyph0-9"/>
-      <use x="825.571" y="302.208" xlink:href="#glyph0-10"/>
-      <use x="884.389" y="302.208" xlink:href="#glyph0-1"/>
-      <use x="946.721" y="302.208" xlink:href="#glyph0-6"/>
-      <use x="968.934" y="302.208" xlink:href="#glyph0-11"/>
-      <use x="1037.385" y="302.208" xlink:href="#glyph0-1"/>
-      <use x="1099.717" y="302.208" xlink:href="#glyph0-2"/>
-      <use x="1159.215" y="302.208" xlink:href="#glyph0-12"/>
-    </g>
   </g>
 </svg>
