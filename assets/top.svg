@@ -280,7 +280,7 @@
       <stop offset="1" style="stop-color:#ff4b57;stop-opacity:1"/>
     </linearGradient>
     <clipPath id="clip2">
-      <rect width="1535" height="58(255,0,0)4" x="0" y="0"/>
+      <rect width="1535" height="584" x="0" y="0"/>
     </clipPath>
     <g id="surface5" clip-path="url(#clip2)">
       <g clip-path="url(#clip3)" clip-rule="nonzero">
