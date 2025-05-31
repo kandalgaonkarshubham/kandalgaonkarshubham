@@ -1,7 +1,7 @@
 ![Top Banner](./assets/top.svg)
 
 <div align="center">
-  <a rel="nofollow" href="https://linkedin.com/in/kandalgaonkarshubham" target="_blank">
+  <a href="https://linkedin.com/in/kandalgaonkarshubham" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="Linkedin"  />
   </a>
   <a href="https://kandalgaonkarshubham.dev" target="_blank">
@@ -36,7 +36,7 @@
 
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;![PHP](https://img.shields.io/badge/php-%23787CB5.svg?style=for-the-badge&logo=php&logoColor=white)&nbsp;![CSS](https://img.shields.io/badge/css-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;![Tailwind](https://img.shields.io/badge/tailwind-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;![Bootstrap](https://img.shields.io/badge/Bootstrap-%237519f6.svg?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;![JavaScript](https://img.shields.io/badge/JavaScript-%23f8db3e.svg?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 
-![Laravel](https://img.shields.io/badge/laravel-%23f05340.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;![Vite](https://img.shields.io/badge/vite-%23b73afe.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;![ReactJs](https://img.shields.io/badge/react-%2361dbfb.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;![Expo](https://img.shields.io/badge/expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white)
+![Laravel](https://img.shields.io/badge/laravel-%23f05340.svg?style=for-the-badge&logo=laravel&logoColor=white)&nbsp;![Vite](https://img.shields.io/badge/vite-%23b73afe.svg?style=for-the-badge&logo=vite&logoColor=white)&nbsp;![ReactJs](https://img.shields.io/badge/react-%2361dbfb.svg?style=for-the-badge&logo=react&logoColor=black)&nbsp;![NextJS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;![VueJS](https://img.shields.io/badge/Vue-%2341b883?style=for-the-badge&logo=vue.js&logoColor=white)&nbsp;![Nuxt](https://img.shields.io/badge/Nuxt-%232b475e?style=for-the-badge&logo=nuxt&logoColor=%2341b883)&nbsp;![Expo](https://img.shields.io/badge/expo-%23000020.svg?style=for-the-badge&logo=expo&logoColor=white)
 
 ![Express.js](https://img.shields.io/badge/express.js-%23f7df1e.svg?style=for-the-badge&logo=express&logoColor=black)&nbsp;![Hono.js](https://img.shields.io/badge/hono.js-%23e36002.svg?style=for-the-badge&logo=hono&logoColor=white)&nbsp;![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;![Firebase](https://img.shields.io/badge/Firebase-%23de3308.svg?style=for-the-badge&logo=Firebase&logoColor=white)&nbsp;![Supabase](https://img.shields.io/badge/Supabase-%233ecf8e.svg?style=for-the-badge&logo=Supabase&logoColor=white)&nbsp;![MongoDB](https://img.shields.io/badge/MongoDB-%23001e2b.svg?style=for-the-badge&logo=mongodb&logoColor=%2300ed64)&nbsp;![MySql](https://img.shields.io/badge/mysql-%2300628b.svg?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
