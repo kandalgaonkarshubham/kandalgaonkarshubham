@@ -45,7 +45,7 @@
 
 ###
 
-<h3 align="left">💻   Recent Projects :</h3>
+<h3 align="left">💻   Projects :</h3>
 
 ###
 
